@@ -9,7 +9,13 @@ Recursive PHP
        
 #### Defining Recursive Folder
     inform absolute path in the $path variable
-    
+
+#### in linux environment give write and read permission on the folder, only in development !!!
+ $ sudo su
+ $[root] chmod 777 question-2
+ $ cd question-2
+
+
 #### The script can be executed in two ways:
 ## - Terminal
     $ php recursive.php
